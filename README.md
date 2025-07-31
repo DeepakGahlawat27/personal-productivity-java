@@ -1,7 +1,7 @@
 # SwiftList Task Manager
 
 SwiftList Task Manager is a simple Java-based task management application with a user-friendly graphical interface. This application allows users to create, manage, and organize their tasks efficiently.
-Watch my [YouTube tutorial](https://www.youtube.com/watch?v=qoBQIqSPfAU) for a more detailed explanation of the code.
+
 
 
 
@@ -27,6 +27,4 @@ Watch my [YouTube tutorial](https://www.youtube.com/watch?v=qoBQIqSPfAU) for a m
 3. Manage tasks by checking/unchecking the checkboxes and using the right-click menu.
 4. Click "Clear All" to remove all tasks from the list.
 
-## Dependencies
 
-- This project uses Java Swing for the graphical user interface.
