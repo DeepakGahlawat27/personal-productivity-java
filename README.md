@@ -3,13 +3,6 @@
 SwiftList Task Manager is a simple Java-based task management application with a user-friendly graphical interface. This application allows users to create, manage, and organize their tasks efficiently.
 
 
-
-
-<p align="center">
-  <img width="620" height="620" 
-</p>
-
-
 ## Features
 
 - **Add New Tasks:** Click the "Add Task" button to create a new task. A pop-up window will appear, allowing you to enter the details of the new task.
